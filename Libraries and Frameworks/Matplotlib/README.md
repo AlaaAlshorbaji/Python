@@ -1,6 +1,6 @@
 Matplotlib Tutorial
 
-![Matplotlib Logo](https://matplotlib.org/stable/_images/sphinx-logo.png)
+![Matplotlib Logo](https://github.com/AlaaAlshorbaji/Python/blob/b3a86b637e791015d95effce4c001629971669b7/Libraries%20and%20Frameworks/Matplotlib/course_thumbnail_default-new_171718030152.jpg)
 
 **Matplotlib** is a powerful plotting library for Python and is often used for visualizing data in graphical form. Whether you're plotting simple line graphs, bar charts, histograms, or complex heatmaps, Matplotlib provides a wide array of functions to meet your needs. It is one of the most important libraries in Python for data visualization.
 
