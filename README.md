@@ -1,4 +1,4 @@
-![AI Python](logo inverted.jpg)
+![AI Python](https://github.com/AlaaAlshorbaji/Python/blob/0e104e946e9405b296bdec0d637ef647005a8370/logo%20inverted.jpg)
 
 # Python Programming
 
