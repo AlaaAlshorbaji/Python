@@ -1,6 +1,6 @@
 Numpy Tutorial
 
-![Numpy Logo](https://upload.wikimedia.org/wikipedia/commons/2/20/Numpy_logo_2020.svg)
+![Numpy Logo](https://github.com/AlaaAlshorbaji/Python/blob/a64a8f87c1b8203aef71674e36541dd13a0ee338/Libraries%20and%20Frameworks/NumPy/5289144_2ddb_2.jpg)
 
 This tutorial covers **NumPy**, a fundamental package for scientific computing with Python. NumPy is used for handling large multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. It is one of the core libraries in data science and machine learning.
 
