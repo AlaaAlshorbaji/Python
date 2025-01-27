@@ -1,6 +1,6 @@
 # Pandas Tutorial
 
-![Pandas Logo](https://pandas.pydata.org/static/img/pandas_logo.png)
+![Pandas Logo](https://github.com/AlaaAlshorbaji/Python/blob/af4f0d4665000efba73f5a349fdaf19e00d5ffa6/Libraries%20and%20Frameworks/Pandas/pandas-python.png)
 
 This tutorial covers **Pandas**, a powerful data analysis and manipulation library in Python. Pandas provides data structures like Series and DataFrame that allow you to manipulate and analyze data efficiently. It is one of the most important tools for data scientists and analysts.
 
