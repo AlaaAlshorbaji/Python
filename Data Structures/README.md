@@ -1,3 +1,4 @@
+![DATA STRUCTURE](https://github.com/AlaaAlshorbaji/Python/blob/0e104e946e9405b296bdec0d637ef647005a8370/logo%20inverted.jpg)
 # Data Structures in Python
 
 This folder explores various data structures in Python. Data structures are fundamental for efficiently organizing and storing data, which is essential for AI and ML algorithms.
